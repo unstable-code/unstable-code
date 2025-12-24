@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jckfn3z3x6n4jwgzzd3pm3gcti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jckfn3z3x6n4jwgzzd3pm3gcti&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jckfn3z3x6n4jwgzzd3pm3gcti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jckfn3z3x6n4jwgzzd3pm3gcti&redirect=true)
 <!--
 **unstable-code/unstable-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
